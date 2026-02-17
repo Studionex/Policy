@@ -1,0 +1,168 @@
+Last updated: February 17, 2026
+
+This Privacy Policy explains how Masar Alnisk ("we", "our", or "us") collects, uses, and protects personal and sensitive user data when using our mobile application and services ("the App").
+
+Our system is an intelligent platform designed for managing campaigns, groups, and field personnel, using organizational hierarchies, interactive maps, reporting tools, messaging systems, and smart analytics to ensure efficient operations and safety.
+
+1. Information We Collect
+
+We may collect the following types of data:
+
+a) Personal Information
+
+Full name
+
+Phone number
+
+National Id (not required)
+
+Email address
+
+User role (Owner, Admin, Supervisor, Worker, Driver)
+
+Organization or campaign affiliation
+
+b) Location Data
+
+Real-time GPS location (only when the app is actively in use)
+
+Movement and positioning data for operational tracking and safety purposes
+
+c) Device Information
+
+Device model
+
+Operating system
+
+App version
+
+Unique device identifiers
+
+IP address (for security and fraud prevention)
+
+d) Usage Data
+
+Login activity
+
+Feature usage
+
+Reports and messages submitted
+
+System interactions for analytics and performance improvement
+
+2. How We Use Your Information
+
+We use collected data for the following purposes:
+
+Managing campaigns, groups, and workforce operations
+
+Real-time location tracking to ensure safety and coordination
+
+Displaying personnel locations on interactive maps
+
+Handling emergency and operational incident reports
+
+Enabling direct communication between management and field teams
+
+Generating analytical insights for operational efficiency
+
+Improving system performance, reliability, and security
+
+Complying with legal and regulatory requirements
+
+3. Location Data Usage
+
+We collect location data only when required for system functionality, including:
+
+Real-time tracking of workers during campaigns
+
+Emergency response and safety monitoring
+
+Operational planning and logistics management
+
+Location data is not used for advertising purposes and is never sold to third parties.
+
+4. Data Sharing and Disclosure
+
+We do not sell, rent, or trade personal data.
+
+We may share limited data only with:
+
+Authorized system administrators within your organization
+
+Trusted cloud service providers for hosting and security
+
+Legal authorities if required by law
+
+All data sharing follows strict confidentiality and security standards.
+
+5. Data Storage and Security
+
+We apply industry-standard security practices to protect your data, including:
+
+Encrypted communication (SSL / HTTPS)
+
+Secure cloud storage
+
+Role-based access control
+
+Continuous system monitoring
+
+We take all reasonable technical and organizational measures to protect your data against unauthorized access, loss, or misuse.
+
+6. Data Retention
+
+We retain user data only for as long as necessary to:
+
+Operate the system
+
+Comply with legal requirements
+
+Maintain security and operational integrity
+
+You may request deletion of your data through your organization’s system administrator.
+
+7. Children’s Privacy
+
+Our application is not intended for children under the age of 13.
+
+We do not knowingly collect personal data from children. If we become aware that we have collected such data, we will delete it immediately.
+
+8. User Rights
+
+You have the right to:
+
+Access your personal data
+
+Request correction of incorrect data
+
+Request deletion of your data (subject to legal requirements)
+
+Object to data processing in certain situations
+
+Requests can be submitted via your organization’s system administrator or by contacting us directly.
+
+9. Third-Party Services
+
+Our system may integrate with trusted third-party services such as:
+
+Mapping services (e.g., Google Maps)
+
+Cloud hosting platforms
+
+Analytics services
+
+These services follow their own privacy policies and comply with international data protection standards.
+
+10. Policy Updates
+
+We may update this Privacy Policy from time to time. Any changes will be reflected in this document with a revised date.
+
+We encourage users to review this page regularly.
+
+11. Contact Us
+
+If you have any questions regarding this Privacy Policy or data handling practices, please contact us:
+
+Email: support@yourdomain.com
+Company: Masar Alnisk
