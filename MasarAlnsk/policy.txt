@@ -28,19 +28,7 @@ Real-time GPS location (only when the app is actively in use)
 
 Movement and positioning data for operational tracking and safety purposes
 
-c) Device Information
-
-Device model
-
-Operating system
-
-App version
-
-Unique device identifiers
-
-IP address (for security and fraud prevention)
-
-d) Usage Data
+c) Usage Data
 
 Login activity
 
@@ -166,3 +154,4 @@ If you have any questions regarding this Privacy Policy or data handling practic
 
 Email: support@yourdomain.com
 Company: Masar Alnisk
+
