@@ -1,0 +1,64 @@
+# Privacy Policy – TeoriNu
+
+**Last updated:** 2026-03-02
+
+TeoriNu ("we", "our", or "the app") is a driving theory preparation app for taxi license in Sweden. This policy describes how we handle your information.
+
+---
+
+## 1. Information we collect
+
+- **Account data:** When you register, we collect email address, password (stored securely), and optionally your display name.
+- **Usage and progress:** Quiz answers, scores, progress per category, and exam attempts are stored to provide your statistics and progress in the app.
+- **Subscription:** If you purchase a subscription, we receive and store subscription status (e.g. active/expired) and, where applicable, transaction identifiers from Apple or Google for validation. We do not store your payment card details; payments are processed by Apple or Google.
+
+---
+
+## 2. How we use your information
+
+- To create and manage your account and to let you use the app (practice, exams, progress).
+- To validate and manage your subscription and to restore purchases.
+- To improve the app and fix issues (e.g. anonymized or aggregated data where used).
+
+We do not sell your personal data to third parties.
+
+---
+
+## 3. Where your data is stored
+
+- Your account data, progress, and subscription status are stored on our servers (backend API). The app connects to our API; the base URL may be configured per environment (e.g. production API).
+- Subscription and payment data are processed by **Apple** (App Store) or **Google** (Play Store) according to their respective privacy policies.
+
+---
+
+## 4. Data retention and your rights
+
+- We keep your data for as long as your account is active. You can request account deletion or a copy of your data by contacting us.
+- You may have additional rights under applicable law (e.g. access, correction, deletion, portability). Contact us to exercise them.
+
+---
+
+## 5. Security
+
+We use industry-standard measures (e.g. HTTPS, secure storage of credentials) to protect your data. No method of transmission or storage is 100% secure; we strive to reduce risks to a reasonable level.
+
+---
+
+## 6. Children
+
+The app is not directed at children under 16. We do not knowingly collect personal data from children under 13. If you believe we have done so, please contact us so we can delete it.
+
+---
+
+## 7. Changes to this policy
+
+We may update this privacy policy from time to time. We will post the updated version (e.g. on our website or in the app) and, where required by law, ask for your consent.
+
+---
+
+## 8. Contact
+
+For privacy-related questions, deletion requests, or to exercise your rights:
+
+- **Email:** rashedhamood66@gmail.com
+- **App / product name:** TeoriNu (com.teorinu.studionex)
